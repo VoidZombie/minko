@@ -94,6 +94,7 @@ Available plugins are:
 * sensors
 * serializer
 * video-camera
+* video-player (WIP)
 * vr
 * zlib
 
